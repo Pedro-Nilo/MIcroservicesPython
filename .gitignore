@@ -1,0 +1,8 @@
+# Enviroment folders
+.vscode
+.env
+# Compiled and cache files
+*.pyc
+# Local database files
+.dbdata
+db.sqlite3
