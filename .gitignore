@@ -3,6 +3,7 @@
 .env
 # Compiled and cache files
 *.pyc
+__pycache__
 # Local database files
 .dbdata
 db.sqlite3
